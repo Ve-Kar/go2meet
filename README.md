@@ -1,3 +1,7 @@
+
+Application serving to save meetings or favorite places to go for users. They can add address and pictures to their future meet ups in database.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
