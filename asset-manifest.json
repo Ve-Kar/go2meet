@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.3d96a675.css",
-    "main.js": "./static/js/main.f0e87436.js",
-    "index.html": "./index.html",
-    "main.3d96a675.css.map": "./static/css/main.3d96a675.css.map",
-    "main.f0e87436.js.map": "./static/js/main.f0e87436.js.map"
+    "main.css": "/go2meet/static/css/main.3d96a675.css",
+    "main.js": "/go2meet/static/js/main.f0e87436.js",
+    "index.html": "/go2meet/index.html",
+    "main.3d96a675.css.map": "/go2meet/static/css/main.3d96a675.css.map",
+    "main.f0e87436.js.map": "/go2meet/static/js/main.f0e87436.js.map"
   },
   "entrypoints": [
     "static/css/main.3d96a675.css",
