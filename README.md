@@ -1,3 +1,8 @@
+
+Application serving to save meetings or favorite places to go for users. They can add address and pictures (with random Picture URLs choosen by user) to their future meet ups in database.
+Eifel Tower icon downloaded from iconscout.com. Many thanks to Vincent Le Moign!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
