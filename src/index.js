@@ -2,7 +2,7 @@ import App from './App';
 import './index.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { HashRouter,  Route, Routes } from 'react-router-dom';
+import { BrowserRouter,  Route, Routes } from 'react-router-dom';
 import { FavoritesContextProvider } from './store/favorites-contex';
 
 
@@ -13,9 +13,9 @@ root.render(
 
   <React.StrictMode>
   <FavoritesContextProvider>
-    <HashRouter>
+    <BrowserRouter>
       <App />
-    </HashRouter>
+    </BrowserRouter>
   </FavoritesContextProvider>
 </React.StrictMode>
 );
