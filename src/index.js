@@ -6,8 +6,6 @@ import { BrowserRouter,  Route, Routes } from 'react-router-dom';
 import { FavoritesContextProvider } from './store/favorites-contex';
 
 
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
